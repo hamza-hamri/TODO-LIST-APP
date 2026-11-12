@@ -46,3 +46,5 @@ npm run dev
 ## Author
 
 GitHub: [hamrii206](https://github.com/hamrii206)
+
+<img width="1365" height="603" alt="1" src="https://github.com/user-attachments/assets/fc2502a0-9b85-4d79-9b29-ce7573bd508b" />
