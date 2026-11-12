@@ -1,25 +1,48 @@
-
 # Todo List App
 
-A simple and intuitive task management application built with React.
+A modern and intuitive task management application built with ReactJS and Tailwind CSS. It helps users organize their daily activities and manage tasks efficiently.
 
 ## Features
+
 - Add new tasks
 - Edit existing tasks
 - Delete tasks
-- Manage and organize daily activities
+- Delete all tasks
+- Simple and user-friendly interface
 
-## Technologies
+## Technologies Used
+
 - ReactJS
-- Tailwind
+- Tailwind CSS
+- JavaScript
+- Vite
 
 ## Installation
 
 1. Clone the repository:
-   git clone https://github.com/hamrii206/TODO-LIST-APP.git
 
-2. Install dependencies:
-   npm install
+```bash
+git clone https://github.com/hamrii206/TODO-LIST-APP.git
+```
 
-3. Start the development server:
-   npm run dev
+2. Navigate to the project directory:
+
+```bash
+cd TODO-LIST-APP
+```
+
+3. Install dependencies:
+
+```bash
+npm install
+```
+
+4. Start the development server:
+
+```bash
+npm run dev
+```
+
+## Author
+
+GitHub: [hamrii206](https://github.com/hamrii206)
