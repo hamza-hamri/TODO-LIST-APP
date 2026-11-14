@@ -22,7 +22,7 @@ A modern and intuitive task management application built with ReactJS and Tailwi
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/hamrii206/TODO-LIST-APP.git
+git clone https://github.com/hamza-hamri/TODO-LIST-APP.git
 ```
 
 2. Navigate to the project directory:
